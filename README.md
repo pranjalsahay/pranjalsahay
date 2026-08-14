@@ -1,114 +1,129 @@
 <div align="center">
 
-# Hi, I'm Pranjal Sahay 👋
-
-### Full-Stack Developer & Machine Learning Engineer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+full-stack+apps;Crafting+RAG+pipelines+%26+LLM+workflows;Turning+ideas+into+3D+interactive+experiences;Always+shipping%2C+always+learning&font=Fira+Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=22)](https://git.io/typing-svg)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranjalsahay24.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjal-sahay-1a995a318)
-[![Email](https://img.shields.io/badge/pranjalsahay24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalsahay24@gmail.com)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%24+whoami;%3E+pranjal_sahay.exe;%24+status+--check;%3E+building+%7C+learning+%7C+shipping" alt="Typing SVG" />
 
 </div>
 
----
+```yaml
+# ~/pranjalsahay/profile.yaml
 
-### 🧑‍💻 About Me
-
-- 🎓 B.Tech CSE @ **VIT Vellore** (2024 — 2028)
-- 📍 Based in Vellore, Tamil Nadu, India
-- 🔴 **General Operations Head** @ Mozilla Firefox Club VIT *(Jan 2026 — Present)*
-- 🏗️ Currently building **AI-powered full-stack applications** and **RAG pipelines**
-- 📚 Currently learning **LLM fine-tuning**, **Agentic AI**, and **Vector databases**
-- 💼 Open to high-impact **internships** in AI/ML and Full-Stack roles
-- ⚡ Core domains: Machine Learning & NLP · Full-Stack Web Dev · 3D Graphics (Three.js/GSAP/WebGL) · Data Science · LLM & RAG architecture
-
-`Open to:` **Internship** · **Freelance** · **Open Source**
-
----
-
-### 🛠️ Tech Stack
+name: Pranjal Sahay
+role: Full-Stack Developer & Machine Learning Engineer
+location: Vellore, Tamil Nadu, IN
+education: B.Tech CSE @ VIT Vellore (2024 - 2028)
+current_role: General Operations Head @ Mozilla Firefox Club VIT
+status: "compiling ideas into code..."
+```
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,react,threejs,html,css,nodejs,flask,django,docker,git,github,linux,mysql,mongodb,postman,vscode&perline=10&theme=dark)
-
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://pranjalsahay24.in)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/pranjal-sahay-1a995a318)
+[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:pranjalsahay24@gmail.com)
+[![Kivenetics](https://img.shields.io/badge/KIVENETICS-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://kivenetics.in)
 
 </div>
 
----
+<br>
 
-### 🚀 Featured Work
+### `>_` about-me.py
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```python
+class Pranjal:
+    def __init__(self):
+        self.core_domains = [
+            "Machine Learning & NLP",
+            "Full-Stack Web Development",
+            "3D Graphics (Three.js / GSAP / WebGL)",
+            "Data Science & Analytics",
+            "LLM & RAG Pipeline Architecture",
+        ]
+        self.currently_building = "AI-powered full-stack apps & RAG pipelines"
+        self.currently_learning = ["LLM fine-tuning", "Agentic AI", "Vector DBs"]
+        self.open_to = ["Internship", "Freelance", "Open Source"]
 
-**🌐 3D Interactive Portfolio**
-Custom 3D physics engine with Three.js, GSAP scroll triggers, GPU canvas rendering, glassmorphism UI & WebGL shaders.
-`React` `TypeScript` `Three.js` `GSAP` `WebGL`
-[Code](https://github.com/pranjalsahay/pranjalsahayportfolio24) · [Live](https://pranjalsahay24.in)
+    def say_hi(self):
+        return "Building things that matter — one commit at a time."
 
-</td>
-<td width="50%" valign="top">
+me = Pranjal()
+print(me.say_hi())
+```
 
-**🤖 Nova AI Engine**
-Full-stack AI chatbot — Flask + Grok API, real-time streaming, session context, prompt engineering & React frontend.
-`React` `TypeScript` `Flask` `Grok API` `Python`
-[Code](https://github.com/pranjalsahay/Nova) · [Backend](https://github.com/pranjalsahay/nova-Backened)
+```
+>>> Output: Building things that matter — one commit at a time.
+```
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-**📊 Gradlens**
-AI-powered Student Performance Analytics Dashboard built with FastAPI, PostgreSQL, Next.js & React — predictive analysis and interactive visualizations.
-`FastAPI` `PostgreSQL` `Next.js` `React`
-[Code](https://github.com/pranjalsahay/Gradlens)
+### `>_` tech-stack --list
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
-**🏢 Kivenetics Platform**
-Enterprise website designed, developed & deployed during an ML internship, with production infra and ML integration.
-`Python` `Web Architecture` `ML Pipeline`
-[Live](https://kivenetics.in)
+![](https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,react,threejs,html,css,nodejs&perline=10&theme=dark)
+![](https://skillicons.dev/icons?i=flask,django,docker,git,github,linux,mysql,mongodb,postman,vscode&perline=10&theme=dark)
 
-</td>
-</tr>
-</table>
+![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=flat-square&logo=greensock&logoColor=88CE02)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626)
+![REST API](https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
 
----
+</div>
 
-### 💼 Experience
+<br>
 
-| Period | Role |
-|---|---|
-| **2026 — Present** | 🔴 General Operations Head @ Mozilla Firefox Club VIT |
-| **2025** | 🤖 ML Intern @ Kivenetics |
-| **2025** | 🌐 Web Dev Intern @ Cognifyz Technologies |
+### `>_` git log --featured-work
 
-### 🏅 Certifications
+```diff
++ repo: 3d-interactive-portfolio
+  desc: Custom 3D physics engine — Three.js, GSAP scroll triggers, GPU canvas
+        rendering, glassmorphism UI & WebGL shaders.
+  stack: React · TypeScript · Three.js · GSAP · WebGL
+  link:  https://pranjalsahay24.in
 
-| Organization | Domain |
-|---|---|
-| J.P. Morgan | Software Engineering |
-| Deloitte | Data Analytics |
-| Lloyds Bank | Data Science |
-| Accenture | Tech Consulting |
++ repo: nova-ai-engine
+  desc: Full-stack AI chatbot — Flask + Grok API, real-time streaming,
+        session context, prompt engineering & React frontend.
+  stack: React · TypeScript · Flask · Grok API · Python
+  link:  https://github.com/pranjalsahay/Nova
 
----
++ repo: gradlens
+  desc: AI-powered Student Performance Analytics Dashboard — predictive
+        analysis and interactive visualizations.
+  stack: FastAPI · PostgreSQL · Next.js · React
+  link:  https://github.com/pranjalsahay/Gradlens
 
-### 📈 GitHub Analytics
++ repo: kivenetics-platform
+  desc: Enterprise website designed, developed & deployed during an ML
+        internship — production infra & ML integration.
+  stack: Python · Web Architecture · ML Pipeline
+  link:  https://kivenetics.in
+```
+
+<br>
+
+### `>_` cat experience.log
+
+```
+[2026 -- present]  🔴  General Operations Head  @ Mozilla Firefox Club VIT
+[2025           ]  🤖  ML Intern                @ Kivenetics
+[2025           ]  🌐  Web Dev Intern            @ Cognifyz Technologies
+```
+
+### `>_` cat certifications.log
+
+```
+[J.P. Morgan]   Software Engineering
+[Deloitte   ]   Data Analytics
+[Lloyds Bank]   Data Science
+[Accenture  ]   Tech Consulting
+```
+
+<br>
+
+### `>_` github --stats
 
 <div align="center">
 
@@ -117,18 +132,37 @@ Enterprise website designed, developed & deployed during an ML internship, with 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pranjalsahay&show_icons=true&hide_border=true&count_private=true&title_color=58A6FF&icon_color=7B2CBF&text_color=c9d1d9&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsahay&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&text_color=c9d1d9&bg_color=0D1117)
 
+</div>
+
+<div align="center">
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalsahay&bg_color=0D1117&color=58A6FF&line=7B2CBF&point=58A6FF&area=true&area_color=7B2CBF&hide_border=true)
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-**Available for:** `AI/ML Projects` `Full-Stack Development` `3D Web Graphics` `Open Source`
+<!-- Contribution snake — auto-generates after enabling the GitHub Action below -->
+<img src="https://raw.githubusercontent.com/pranjalsahay/pranjalsahay/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-*"Building things that matter — one commit at a time."*
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranjalsahay&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+<br>
+
+### `>_` echo $STATUS
+
+```bash
+$ echo "Available for:"
+> AI/ML Projects · Full-Stack Development · 3D Web Graphics · Open Source
+
+$ echo "Reach me at:"
+> pranjalsahay24@gmail.com
+```
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=pranjalsahay&color=0D1117&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
