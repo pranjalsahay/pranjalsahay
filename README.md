@@ -1,210 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=Hey,%20I'm%20Pranjal%20%F0%9F%91%8B&fontSize=44&fontColor=38bdf8&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Creative%20Technologist&descSize=17&descColor=a5b4fc&descAlignY=55" width="100%"/>
-
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Building+Production+RAG+Pipelines;General+Ops+Head+%40+Mozilla+Firefox+Club+VIT;Crafting+3D+Physics-Driven+Web+Graphics;B.Tech+CSE+%40+VIT+Vellore+%2724-%2728" alt="Typing SVG"/></a>
-
-<br/>
-
-<a href="https://linkedin.com/in/pranjal-sahay-1a995a318"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://pranjalsahay24.in"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
-<a href="https://github.com/pranjalsahay24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="mailto:pranjalsahay24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-<a href="https://kivenetics.in"><img src="https://img.shields.io/badge/Kivenetics-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Kivenetics"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=pranjalsahay24&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views"/>&nbsp;
-<img src="https://img.shields.io/github/followers/pranjalsahay24?style=for-the-badge&color=818CF8&label=FOLLOWERS&logo=github" alt="Followers"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Pranjal%20Sahay&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=55&descAlign=50" width="100%"/>
 
 </div>
-
-<br/>
-
-## 👤 About Me
-
-I'm a Computer Science undergrad at **VIT Vellore** (2024–2028), building my way through the stack — from vector databases and RAG pipelines on the backend, to physics-driven, GPU-shaded 3D scenes on the frontend. I like software that's technically solid *and* genuinely enjoyable to use, and I try to make sure everything I ship has a little of both.
-
-I currently serve as **General Operations Head at Mozilla Firefox Club VIT**, coordinating open-source workshops, hackathon logistics, and dev teams across the club. Before that, I spent time as a Machine Learning Intern at **Kivenetics**, where I helped build and ship their production web platform, and as a Web Developer Intern at **Cognifyz Technologies**.
-
-Outside of formal roles, most of my time goes into two things: getting generative AI systems to behave reliably in production, and finding new ways to make the browser feel less like a document and more like a space.
-
-```yaml
-name:                 Pranjal Sahay
-role:                 Full-Stack Developer & ML Engineer
-education:            B.Tech CSE @ VIT Vellore (2024 - 2028)
-currently_building:   Agentic workflow engines & AI-powered web platforms
-currently_learning:   Distributed model fine-tuning, vector database indexing
-ask_me_about:         RAG architecture, Three.js/WebGL, Flask APIs, LLM integrations
-fun_fact:             I'd rather debug a shader than a merge conflict
-```
-
-<br/>
-
-## 🧭 What I Care About
-
-- **Systems that hold up under real usage** — not just demo-ready, but production-ready: proper error handling, sane API design, and infrastructure that doesn't fall over.
-- **Interfaces that feel alive** — animation, physics, and interactivity used with intent, not just decoration.
-- **Open-source as a habit, not a resume line** — through the Firefox Club, I try to make contributing feel accessible to people who've never opened a PR before.
-- **Learning in public** — writing about the systems I build, including the parts that didn't work the first time.
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages & Frontend**
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,react,threejs,html,css,graphql&perline=10&theme=dark" alt="Languages & Frontend"/>
-
-**Backend, Data & Infra**
-<img src="https://skillicons.dev/icons?i=nodejs,flask,django,express,docker,git,linux,mysql,mongodb,sqlite,vscode&perline=11&theme=dark" alt="Backend & Infrastructure"/>
-
-**Libraries & Tools**
-
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 3D Interactive Portfolio
-A personal site built as a custom physics engine, not a template — GSAP-driven scroll timelines, GPU-shaded canvas backgrounds, and glassmorphism panels that respond to user interaction in real time. Built to be explored, not just scrolled past.
-
-**Stack:** `React` `TypeScript` `Three.js` `GSAP` `WebGL`
-**Status:** 🟢 Live & Production Ready
-
-[Code](https://github.com/pranjalsahay24) · [Live](https://pranjalsahay24.in)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Nova AI Engine
-A full-stack generative conversation platform built on Flask with Grok API integration. Handles asynchronous token-stream parsing, session-level memory graphs, and prompt optimization — the pieces that separate a chatbot demo from something people can actually rely on.
-
-**Stack:** `React` `TypeScript` `Flask` `Grok API` `Python`
-**Status:** 🟢 Active Deployment
-
-[Code](https://github.com/pranjalsahay24) · [Live](https://pranjalsahay24.in)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Kivenetics Platform
-The official web presence for Kivenetics, designed, built, and deployed end-to-end during my ML internship — high-availability architecture with analytics models embedded directly into the site.
-
-**Stack:** `Python` `Web Architecture` `ML Pipeline`
-**Status:** 🟢 Deployed & Maintained
-
-[Code](https://github.com/pranjalsahay24) · [Live](https://kivenetics.in)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 CatchIt Telemetry Game
-A Pygame project with a twist: live Matplotlib graphing threads running alongside gameplay, streaming real-time spatial tracking, hit-rate stats, and metric distributions as you play.
-
-**Stack:** `Python` `Pygame` `Matplotlib` `NumPy`
-**Status:** 🟢 Open Source
-
-[Code](https://github.com/pranjalsahay24)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 💼 Experience & Leadership
-
-| Period | Role | Organization | Highlights |
-| :--- | :--- | :--- | :--- |
-| **Jan 2026 – Present** | General Operations Head | **Mozilla Firefox Club VIT** | Running club events, open-source workshops, hackathon coordination, and dev team management |
-| **2025** | Machine Learning Intern | **Kivenetics** | Built analytical models, engineered features, shipped the official web platform ([kivenetics.in](https://kivenetics.in)) |
-| **Oct – Nov 2025** | Web Developer Intern | **Cognifyz Technologies** | Built responsive UI modules, optimized client-side assets, developed reusable components |
-
-<br/>
-
-## 🏆 Certifications & Writing
-
-**Verified Job Simulations**
-
-| Program | Provider |
-| :--- | :--- |
-| Software Engineering Job Simulation | J.P. Morgan |
-| Data Analytics & Insights | Deloitte Australia |
-| Data Science Simulation | Lloyds Banking Group |
-| Technology Consulting | Accenture Australia |
-
-**Writing**
-
-📚 **[Click, Vote, Secure: The Blockchain Election](https://medium.com/@pranjalsahay)**
-An architectural deep-dive into zero-knowledge proofs, consensus protocols, and immutability constraints inside secure electronic voting systems.
-
-<br/>
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pranjalsahay24&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="85%" alt="Streak Stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=pranjalsahay24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&icon_color=818cf8&text_color=abb2bf&bg_color=0d1117" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsahay24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=38bdf8&text_color=abb2bf&bg_color=0d1117" height="180" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalsahay24&bg_color=0d1117&color=38bdf8&line=818cf8&point=38bdf8&area=true&area_color=818cf8&hide_border=true" width="95%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pranjalsahay24&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full+Stack+Web+Developer+🚀;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+beautiful+%26+performant+web+apps+✨)](https://git.io/typing-svg)
 
 </div>
-
-<br/>
-
-## 💬 Developer Musings
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%"/>
-</div>
-
-<br/>
 
 ---
 
+## 🔗 Connect with Me
+
 <div align="center">
 
-### 📬 Let's Talk
-
-I'm open to opportunities at the intersection of **AI Engineering** and **Full-Stack Development** — reach out if you're building something interesting.
-
-<a href="mailto:pranjalsahay24@gmail.com"><img src="https://img.shields.io/badge/pranjalsahay24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
-<a href="https://pranjalsahay24.in"><img src="https://img.shields.io/badge/pranjalsahay24.in-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/pranjal-sahay-1a995a318"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<br/><br/>
-
-*"Building things that matter — one commit at a time."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-pranjalsahay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjalsahay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjal_Sahay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjalsahay)
+[![Twitter](https://img.shields.io/badge/Twitter-@pranjalsahay-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pranjalsahay)
+[![Instagram](https://img.shields.io/badge/Instagram-pranjalsahay-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pranjalsahay)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://pranjalsahay.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalsahay@gmail.com)
 
 </div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### ⚛️ Frontend
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</div>
+
+### 🔧 Backend & Database
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+</div>
+
+### ☁️ Tools & Platforms
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranjalsahay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&border_color=6366f1&bg_color=0d1117&title_color=6366f1&icon_color=a78bfa&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsahay&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pranjalsahay&theme=tokyonight&border_radius=12&hide_border=false&border=6366f1&background=0d1117&stroke=6366f1&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=6366f1&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Pranjal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalsahay&bg_color=0d1117&color=a78bfa&line=6366f1&point=f59e0b&area=true&area_color=6366f1&hide_border=false&border_color=6366f1&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pranjalsahay&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![FlowBoard](https://github-readme-stats.vercel.app/api/pin/?username=pranjalsahay&repo=flowboard&theme=tokyonight&border_radius=12&border_color=6366f1&bg_color=0d1117&title_color=6366f1&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/pranjalsahay/flowboard)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=pranjalsahay&repo=portfolio&theme=tokyonight&border_radius=12&border_color=6366f1&bg_color=0d1117&title_color=6366f1&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/pranjalsahay/portfolio)
+
+</div>
+
+---
+
+## 📌 About Me
+
+```ts
+const pranjal = {
+  name        : "Pranjal Sahay",
+  location    : "India 🇮🇳",
+  role        : "Full Stack Developer",
+  stack       : ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
+  currentWork : "Building FlowBoard — a productivity & calendar app",
+  learning    : ["System Design", "DevOps", "Web Performance"],
+  interests   : ["Open Source", "UI/UX Design", "Hackathons"],
+  funFact     : "I debug with console.log and I'm not ashamed 😄",
+  motto       : "Build things that matter. Ship fast. Learn always.",
+};
