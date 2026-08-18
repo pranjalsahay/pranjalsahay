@@ -1,73 +1,46 @@
 <div align="center">
 
-<!-- Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=Pranjal%20Sahay&fontSize=52&fontColor=38bdf8&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descSize=20&descColor=a5b4fc&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=Hey,%20I'm%20Pranjal&fontSize=48&fontColor=38bdf8&fontAlignY=35&desc=I%20build%20AI%20systems%20and%203D%20web%20experiences&descSize=18&descColor=a5b4fc&descAlignY=55" width="100%"/>
 
-<br/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+Production+RAG+Pipelines;General+Ops+Head+%40+Mozilla+Firefox+Club+VIT;Creating+3D+Physics+Web+Graphics;B.Tech+CSE+%40+VIT+Vellore" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Social Connection Badges -->
-<a href="https://linkedin.com/in/pranjal-sahay-1a995a318"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://pranjalsahay24.in"><img src="https://img.shields.io/badge/3D_Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
-<a href="https://github.com/pranjalsahay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="mailto:pranjalsahay24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/pranjal-sahay-1a995a318"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://pranjalsahay24.in"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="https://github.com/pranjalsahay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="mailto:pranjalsahay24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
 <a href="https://kivenetics.in"><img src="https://img.shields.io/badge/Kivenetics-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Kivenetics"/></a>
 
-<br/><br/>
+<br/>
 
-<!-- Profile View Counter + Followers -->
-<img src="https://komarev.com/ghpvc/?username=pranjalsahay&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views"/>&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=pranjalsahay&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views"/>&nbsp;
 <img src="https://img.shields.io/github/followers/pranjalsahay?style=for-the-badge&color=818CF8&label=FOLLOWERS&logo=github" alt="Followers"/>
 
 </div>
 
 <br/>
 
----
+## About Me
 
-## ⚡ System Diagnostics
+I'm a CSE undergrad at **VIT Vellore** (2024–2028) who likes making software that's both *technically sound* and *fun to use* — think production-grade RAG pipelines on one side of my desk, and physics-driven Three.js scenes on the other.
 
-```json
-{
-  "operator": "Pranjal Sahay",
-  "role": "Full-Stack Developer & Machine Learning Architect",
-  "academic_base": "B.Tech CSE @ Vellore Institute of Technology (2024 - 2028)",
-  "leadership": "General Operations Head @ Mozilla Firefox Club VIT",
-  "domains": [
-    "Generative AI & Production RAG Architectures",
-    "Interactive 3D Web Graphics (Three.js, GSAP, WebGL)",
-    "Scalable Web APIs & Microservices (Flask, Node.js)"
-  ],
-  "current_status": {
-    "building": "AI-powered web platforms & agentic workflow engines",
-    "learning": "Distributed model fine-tuning & vector database indexing"
-  }
-}
+Right now I'm the **General Operations Head at Mozilla Firefox Club VIT**, where I help run open-source workshops and hackathons for the campus community. Before that, I worked as an ML intern at **Kivenetics** and a web dev intern at **Cognifyz Technologies**.
+
+```yaml
+currently_building:  Agentic workflow engines & AI-powered web platforms
+currently_learning:  Distributed fine-tuning, vector DB indexing
+ask_me_about:        RAG architectures, Three.js/WebGL, Flask APIs
+fun_fact:             I'd rather debug a shader than a merge conflict
 ```
 
 <br/>
 
----
+## Tech Stack
 
-## 🛠️ Cybernetic Tech Arsenal
-
-<div align="center">
-
-### Languages & Frontend
+**Languages & Frontend**
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,react,threejs,html,css,graphql&perline=10&theme=dark" alt="Languages & Frontend"/>
 
-<br/>
-
-### Backend, Databases & Infrastructure
+**Backend, Data & Infra**
 <img src="https://skillicons.dev/icons?i=nodejs,flask,django,express,docker,git,linux,mysql,mongodb,sqlite,vscode&perline=11&theme=dark" alt="Backend & Infrastructure"/>
 
-<br/><br/>
-
-<!-- Unified Badges for Libraries & Frameworks -->
+**Libraries & Tools**
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -76,36 +49,30 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
-
 <br/>
 
----
-
-## 🚀 Pinned Missions (Featured Projects)
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🌐 3D Interactive Portfolio
-> Custom **3D physics engine** built with Three.js, dynamic GSAP scroll-triggered animation timelines, GPU-accelerated canvas shading, and sleek glassmorphism panels.
-* **Stack:** `React` · `TypeScript` · `Three.js` · `GSAP` · `WebGL`
-* **Status:** Live & Production Ready
-<br/>
-<a href="https://github.com/pranjalsahay"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>&nbsp;
-<a href="https://pranjalsahay24.in"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/></a>
+A custom-built physics engine on Three.js with GSAP scroll-triggered timelines, GPU-shaded canvases, and glassmorphism UI — built to be explored, not just scrolled.
+
+`React` `TypeScript` `Three.js` `GSAP` `WebGL`
+
+[Code](https://github.com/pranjalsahay) · [Live](https://pranjalsahay24.in)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 Nova AI Engine
-> Full-stack generative conversation platform utilizing **Flask + Grok API** integrations. Supports asynchronous token stream parsing, session graph memory, and prompt optimization.
-* **Stack:** `React` · `TypeScript` · `Flask` · `Grok API` · `Python`
-* **Status:** Active Deployment
-<br/>
-<a href="https://github.com/pranjalsahay"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>&nbsp;
-<a href="https://pranjalsahay24.in"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/></a>
+A full-stack conversational AI platform powered by Flask and the Grok API, with async token streaming, session memory graphs, and prompt optimization built in.
+
+`React` `TypeScript` `Flask` `Grok API` `Python`
+
+[Code](https://github.com/pranjalsahay) · [Live](https://pranjalsahay24.in)
 
 </td>
 </tr>
@@ -113,22 +80,21 @@
 <td width="50%" valign="top">
 
 ### 🏢 Kivenetics Platform
-> Official web infrastructure engineered, optimized, and deployed for **Kivenetics** during ML Internship. High availability architecture with embedded analytics models.
-* **Stack:** `Python` · `Web Architecture` · `ML pipeline`
-* **Status:** Deployed & Maintained
-<br/>
-<a href="https://github.com/pranjalsahay"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>&nbsp;
-<a href="https://kivenetics.in"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/></a>
+The official web infrastructure I built and shipped during my ML internship — high-availability architecture with embedded analytics.
+
+`Python` `Web Architecture` `ML Pipeline`
+
+[Code](https://github.com/pranjalsahay) · [Live](https://kivenetics.in)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 CatchIt Telemetry Game
-> High-performance Pygame project featuring **live Matplotlib graphing threads** to output real-time player spatial tracking, hit rates, and metric distribution profiles.
-* **Stack:** `Python` · `Pygame` · `Matplotlib` · `NumPy`
-* **Status:** Open Source
-<br/>
-<a href="https://github.com/pranjalsahay"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+### 🎮 CatchIt
+A Pygame project with live Matplotlib graphing threads for real-time player tracking, hit-rate stats, and performance distributions.
+
+`Python` `Pygame` `Matplotlib` `NumPy`
+
+[Code](https://github.com/pranjalsahay)
 
 </td>
 </tr>
@@ -136,48 +102,27 @@
 
 <br/>
 
----
+## Experience
 
-## 💼 Industry Experience & Leadership
-
-| Timeframe | Designation | Organization | Key Contributions |
-| :--- | :--- | :--- | :--- |
-| **Jan 2026 – Present** | 🔴 **General Operations Head** | **Mozilla Firefox Club VIT** | Overseeing club events, open-source workshops, hackathon alignments, and development teams. |
-| **2025** | 🤖 **Machine Learning Intern** | **Kivenetics** | Developed analytical models, engineered features, and built official web presence ([kivenetics.in](https://kivenetics.in)). |
-| **Oct – Nov 2025** | 🌐 **Web Developer Intern** | **Cognifyz Technologies** | Crafted responsive interface modules, optimized client-side load assets, and built components. |
+| Period | Role | Organization |
+| :--- | :--- | :--- |
+| Jan 2026 – Present | General Operations Head | **Mozilla Firefox Club VIT** |
+| 2025 | Machine Learning Intern | **Kivenetics** |
+| Oct – Nov 2025 | Web Developer Intern | **Cognifyz Technologies** |
 
 <br/>
 
----
+## Certifications & Writing
 
-## 🏆 Credentials & Writing
+**Job Simulations**
+J.P. Morgan (Software Engineering) · Deloitte Australia (Data Analytics) · Lloyds Banking Group (Data Science) · Accenture Australia (Technology Consulting)
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📑 Verified Industry Roster
-* **J.P. Morgan** — Software Engineering Job Simulation
-* **Deloitte Australia** — Data Analytics & Insights
-* **Lloyds Banking Group** — Data Science Simulation
-* **Accenture Australia** — Technology Consulting
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 Publications & Insights
-> 📚 **[Click, Vote, Secure: The Blockchain Election](https://medium.com/@pranjalsahay)**  
-> *An architectural deep-dive evaluating zero-knowledge proofs, consensus protocols, and immutability constraints inside secure voting structures.*
-
-</td>
-</tr>
-</table>
+**Writing**
+📚 [Click, Vote, Secure: The Blockchain Election](https://medium.com/@pranjalsahay) — a deep-dive on zero-knowledge proofs, consensus protocols, and immutability in secure voting systems.
 
 <br/>
 
----
-
-## 📊 Live Telemetry (GitHub Statistics)
+## GitHub Stats
 
 <div align="center">
 
@@ -199,30 +144,16 @@
 
 ---
 
-## 💬 Developer Musings
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%"/>
-</div>
-
-<br/>
-
----
-
 <div align="center">
 
-### 📬 Dispatch Channel
+### Let's Talk
 
-*Active and open for **high-impact opportunities** at the intersection of AI Engineering & Full-Stack Systems.*
+I'm open to opportunities at the intersection of **AI Engineering** and **Full-Stack Development**.
 
 <a href="mailto:pranjalsahay24@gmail.com"><img src="https://img.shields.io/badge/pranjalsahay24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
 <a href="https://pranjalsahay24.in"><img src="https://img.shields.io/badge/pranjalsahay24.in-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
-
-*"Building things that matter — one commit at a time."*
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
 
